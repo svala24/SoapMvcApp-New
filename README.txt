@@ -67,3 +67,19 @@ Added background.jpg in the images folder
 2251
 Sucessfully run with zero error
 Background image is showing on the website!! :D
+
+
+
+2024-06-13 1600 UTC
+
+1610
+Started to work on database!
+
+1622
+Facing database error (Null error)
+
+Trying to figuring it out!! :(
+
+1630
+Added 10 different soap product details in controllers for now!
+
