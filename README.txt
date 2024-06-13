@@ -83,3 +83,4 @@ Trying to figuring it out!! :(
 1630
 Added 10 different soap product details in controllers for now!
 
+added prodcut properties - name, price, weight, scent, description
