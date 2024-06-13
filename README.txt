@@ -83,4 +83,12 @@ Trying to figuring it out!! :(
 1630
 Added 10 different soap product details in controllers for now!
 
-added prodcut properties - name, price, weight, scent, description
+1632
+added products properties - name, price, weight, scent, description
+
+1634
+added collaboration to the team member
+
+1635
+Still figuring out migration error. :(
+
