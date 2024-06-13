@@ -84,10 +84,21 @@ Trying to figuring it out!! :(
 Added 10 different soap product details in controllers for now!
 
 1632
-added products properties - name, price, weight, scent, description
+added products properties - name, price, weight, scent, description and the products name are 
+
+Lavender Bliss
+Citrus Splash
+Minty Fresh
+Aloe Vera Fresh
+Rose Petal Luxury
+Oatmeal Delight
+Coconut Cream
+Citrus Burst
+Charcoal Detox
+Honey & Almond
 
 1634
-added collaboration to the team member
+added collaboration to the team members.
 
 1635
 Still figuring out migration error. :(
